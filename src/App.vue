@@ -37,7 +37,7 @@
       cols="12"
     >
       {{ new Date().getFullYear() }} — <strong>Seungjae Moon All right reserved</strong><br>
-      <a href="">Github</a>
+      <a href="https://github.com/JaeMoon94/project3.git">Github</a>
     </v-col>
   </v-footer>
   </v-app>
